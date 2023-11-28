@@ -1,5 +1,5 @@
-// create your App component here
 import React, {useEffect, useState} from "react"
+//import { transactions } from "../data/db.json"
 
 function App () {
   const [image, setImage] = useState(null)
